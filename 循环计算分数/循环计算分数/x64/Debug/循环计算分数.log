@@ -1,0 +1,4 @@
+﻿  FileName.c
+D:\新建文件夹\循环计算分数\循环计算分数\FileName.c(12,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\新建文件夹\循环计算分数\循环计算分数\FileName.c(16,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  循环计算分数.vcxproj -> D:\新建文件夹\循环计算分数\x64\Debug\循环计算分数.exe

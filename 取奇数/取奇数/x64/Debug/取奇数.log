@@ -1,0 +1,5 @@
+﻿  FileName.c
+D:\新建文件夹\取奇数\取奇数\FileName.c(17,20): warning C4474: printf: 格式字符串中传递的参数太多
+D:\新建文件夹\取奇数\取奇数\FileName.c(17,20): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+D:\新建文件夹\取奇数\取奇数\FileName.c(10,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  取奇数.vcxproj -> D:\新建文件夹\取奇数\x64\Debug\取奇数.exe
