@@ -1,0 +1,8 @@
+﻿  FileName.c
+C:\Users\陈浩彬\Desktop\新建文件夹\Project13\Project13\FileName.c(8,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈浩彬\Desktop\新建文件夹\Project13\Project13\FileName.c(10,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈浩彬\Desktop\新建文件夹\Project13\Project13\FileName.c(12,32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈浩彬\Desktop\新建文件夹\Project13\Project13\FileName.c(14,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈浩彬\Desktop\新建文件夹\Project13\Project13\FileName.c(16,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\陈浩彬\Desktop\新建文件夹\Project13\Project13\FileName.c(18,69): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project13.vcxproj -> C:\Users\陈浩彬\Desktop\新建文件夹\Project13\x64\Debug\Project13.exe

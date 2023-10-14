@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二分法求方程的根", "二分法求方程的根\二分法求方程的根.vcxproj", "{C7841828-472C-4F55-9E45-727CD48F78E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Debug|x64.ActiveCfg = Debug|x64
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Debug|x64.Build.0 = Debug|x64
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Debug|x86.Build.0 = Debug|Win32
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Release|x64.ActiveCfg = Release|x64
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Release|x64.Build.0 = Release|x64
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Release|x86.ActiveCfg = Release|Win32
+		{C7841828-472C-4F55-9E45-727CD48F78E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDDED6AF-DC97-4932-86E0-F183FCDEF2E6}
+	EndGlobalSection
+EndGlobal
