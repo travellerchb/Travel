@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "a[3][4]第一行和第三行数据交换", "a[3][4]第一行和第三行数据交换\a[3][4]第一行和第三行数据交换.vcxproj", "{F4F84B7C-DB9A-48B7-896E-A86E211316BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Debug|x64.ActiveCfg = Debug|x64
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Debug|x64.Build.0 = Debug|x64
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Debug|x86.Build.0 = Debug|Win32
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Release|x64.ActiveCfg = Release|x64
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Release|x64.Build.0 = Release|x64
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Release|x86.ActiveCfg = Release|Win32
+		{F4F84B7C-DB9A-48B7-896E-A86E211316BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {957A2988-CD3D-4541-9F77-F5FF0C56A901}
+	EndGlobalSection
+EndGlobal
