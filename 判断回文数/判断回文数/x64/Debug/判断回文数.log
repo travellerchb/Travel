@@ -1,0 +1,4 @@
+﻿  FileName.c
+D:\C作业\判断回文数\判断回文数\FileName.c(6,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\C作业\判断回文数\判断回文数\FileName.c(7,11): warning C4013: “strlen”未定义；假设外部返回 int
+  判断回文数.vcxproj -> D:\C作业\判断回文数\x64\Debug\判断回文数.exe
