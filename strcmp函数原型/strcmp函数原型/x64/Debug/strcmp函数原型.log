@@ -1,0 +1,3 @@
+﻿  FileName.c
+D:\C作业\strcmp函数原型\strcmp函数原型\FileName.c(9,2): warning C4013: “gets”未定义；假设外部返回 int
+  strcmp函数原型.vcxproj -> D:\C作业\strcmp函数原型\x64\Debug\strcmp函数原型.exe
