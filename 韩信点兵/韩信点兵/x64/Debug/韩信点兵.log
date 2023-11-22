@@ -1,0 +1,3 @@
+﻿  FileName.c
+D:\C作业\韩信点兵\韩信点兵\FileName.c(9,7): warning C4101: “d”: 未引用的局部变量
+  韩信点兵.vcxproj -> D:\C作业\韩信点兵\x64\Debug\韩信点兵.exe
