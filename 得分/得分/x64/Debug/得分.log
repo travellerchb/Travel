@@ -1,0 +1,3 @@
+﻿  FileName.c
+D:\C作业\得分\得分\FileName.c(12,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  得分.vcxproj -> D:\C作业\得分\x64\Debug\得分.exe
