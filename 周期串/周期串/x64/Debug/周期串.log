@@ -1,0 +1,7 @@
+﻿  FileName.c
+D:\C作业\周期串\周期串\FileName.c(37,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C作业\周期串\周期串\FileName.c(64,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\C作业\周期串\周期串\FileName.c(64,10): message : 请考虑在格式字符串中使用“%zd”
+D:\C作业\周期串\周期串\FileName.c(16,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C作业\周期串\周期串\FileName.c(31,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  周期串.vcxproj -> D:\C作业\周期串\x64\Debug\周期串.exe
