@@ -1,0 +1,4 @@
+﻿  FileName.c
+D:\C作业\子序列\子序列\FileName.c(13,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\C作业\子序列\子序列\FileName.c(14,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  子序列.vcxproj -> D:\C作业\子序列\x64\Debug\子序列.exe
