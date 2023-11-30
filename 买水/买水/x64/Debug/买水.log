@@ -1,0 +1,4 @@
+﻿  FileName.c
+D:\C作业\买水\买水\FileName.c(14,7): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\C作业\买水\买水\FileName.c(27,8): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  买水.vcxproj -> D:\C作业\买水\x64\Debug\买水.exe
