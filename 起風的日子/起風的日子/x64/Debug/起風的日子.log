@@ -1,0 +1,3 @@
+﻿  FileName.c
+D:\C作业\起風的日子\起風的日子\FileName.c(15,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  起風的日子.vcxproj -> D:\C作业\起風的日子\x64\Debug\起風的日子.exe
