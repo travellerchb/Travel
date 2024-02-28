@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+D:\算法练习\看病要排队\看病要排队\FileName.cpp(30,7): warning C4101: “t”: 未引用的局部变量
+  看病要排队.vcxproj -> D:\算法练习\看病要排队\x64\Debug\看病要排队.exe
