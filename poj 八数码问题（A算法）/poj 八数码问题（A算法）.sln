@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poj 八数码问题（A算法）", "poj 八数码问题（A算法）\poj 八数码问题（A算法）.vcxproj", "{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Debug|x64.ActiveCfg = Debug|x64
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Debug|x64.Build.0 = Debug|x64
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Debug|x86.Build.0 = Debug|Win32
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Release|x64.ActiveCfg = Release|x64
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Release|x64.Build.0 = Release|x64
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Release|x86.ActiveCfg = Release|Win32
+		{89D11F8A-1EA7-4AAF-AEB0-12846C5346A1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90E50A1-EDCA-425F-972A-B83D2E0C88A7}
+	EndGlobalSection
+EndGlobal
