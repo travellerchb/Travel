@@ -1,0 +1,18 @@
+﻿  FileName.cpp
+D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(83,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(83,11):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(83,11):
+  缺失的可变参数 2 为格式字符串“%c”所需
+  D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(83,11):
+  此参数用作缓冲区大小
+  
+D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(89,11): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(89,11):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(89,11):
+  缺失的可变参数 2 为格式字符串“%c”所需
+  D:\算法练习\h_z_cong\h_z_cong\FileName.cpp(89,11):
+  此参数用作缓冲区大小
+  
+  h_z_cong.vcxproj -> D:\算法练习\h_z_cong\x64\Debug\h_z_cong.exe
