@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\算法练习\poj 2676 sudoku\poj 2676 sudoku\FileName.cpp(53,36): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\算法练习\poj 2676 sudoku\poj 2676 sudoku\FileName.cpp(70,37): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\算法练习\poj 2676 sudoku\poj 2676 sudoku\FileName.cpp(99,39): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  poj 2676 sudoku.vcxproj -> D:\算法练习\poj 2676 sudoku\x64\Debug\poj 2676 sudoku.exe

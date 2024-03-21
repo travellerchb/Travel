@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poj 2676 sudoku", "poj 2676 sudoku\poj 2676 sudoku.vcxproj", "{1393735B-B4D6-44C0-A498-B75462D00838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Debug|x64.ActiveCfg = Debug|x64
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Debug|x64.Build.0 = Debug|x64
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Debug|x86.ActiveCfg = Debug|Win32
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Debug|x86.Build.0 = Debug|Win32
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Release|x64.ActiveCfg = Release|x64
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Release|x64.Build.0 = Release|x64
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Release|x86.ActiveCfg = Release|Win32
+		{1393735B-B4D6-44C0-A498-B75462D00838}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F162C564-CB62-4CE9-8FB6-68DB6D5EF04F}
+	EndGlobalSection
+EndGlobal
